@@ -3,7 +3,7 @@
 
 
 # Hardware  
-| Component             | Brank                                                                                                 |
+| Component             | Detail                                                                                                 |
 | --------------------- | ----------------------------------------------------------------------------------------------------- |                
 | Product name          | HP EliteBook 840 G3                                                                                   |
 | Microprocessor        | DualCore Intel Core i5-6300U, 3000 MHz (30 x 100)                                                     |
